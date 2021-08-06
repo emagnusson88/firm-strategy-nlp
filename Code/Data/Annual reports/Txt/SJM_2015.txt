@@ -1,0 +1,113 @@
+The following discussions about our market risk disclosures 
+involve forward-looking statements. Actual results could differ 
+from those projected in the forward-looking statements. We 
+are exposed to market risk related to changes in interest rates, 
+foreign currency exchange rates, and commodity prices.
+Interest Rate Risk: The fair value of our cash and cash 
+equivalents at April 30, 2015, approximates carrying value. 
+We are exposed to interest rate risk with regards to existing 
+debt consisting of fixed- and variable-rate maturities. Our 
+interest rate exposure primarily includes U.S. Treasury rates, 
+London Interbank Offered Rate, and commercial paper rates 
+in the U.S.
+We utilize derivative instruments to manage changes in the 
+fair value of our debt. Interest rate swaps mitigate the risk 
+associated with the underlying hedged item. At the inception 
+of the contract, the instrument is evaluated and documented 
+for hedge accounting treatment. If the contract is designated as 
+a cash flow hedge, the swap would be recognized at fair value 
+on the balance sheet and the mark-to-market gains or losses 
+on the swap are deferred and included as a component of 
+accumulated other comprehensive loss to the extent effective, 
+and reclassified to interest expense in the period during which 
+the hedged transaction affects earnings. If the contract is 
+designated as a fair value hedge, the swap would be recognized 
+at fair value on the balance sheet, and changes in the fair value 
+would be recognized in interest expense. Generally, changes in 
+the fair value of the derivative are equal to changes in the fair 
+value of the underlying debt and have no net impact on earnings.
+In February 2015, we entered into a series of forward-starting 
+interest rate swaps to partially hedge the risk of an increase in 
+the benchmark interest rate during the period leading up to 
+the anticipated issuance of our long-term Senior Notes. The 
+interest rate swaps were designated as cash flow hedges with an 
+aggregate notional amount of $1.1 billion. On March 12, 2015, 
+in conjunction with the pricing of the series of Senior Notes, 
+we terminated the interest rate swaps prior to maturity. 
+The termination resulted in a net loss of $4.0, which will be 
+amortized over the life of the remaining debt.
+During 2014, we entered into an interest rate swap, designated 
+as a fair value hedge, on a portion of fixed-rate Senior Notes in 
+an effort to achieve a mix of variable- versus fixed-rate debt 
+under favorable market conditions. On January 16, 2015, we 
+terminated this interest rate swap agreement prior to maturity. 
+As a result of the early termination, we received $58.1 in cash, 
+which included $4.6 of accrued and prepaid interest and a 
+$53.5 benefit that is deferred as a component of the carrying 
+value of the long-term debt and will be recognized ratably as a 
+reduction to future interest expense over the remaining life of 
+the related debt. At April 30, 2015, the remaining benefit of 
+$51.3 was recorded as an increase in the long-term debt balance.
+Based on our overall interest rate exposure as of and during 
+the year ended April 30, 2015, including derivatives and other 
+instruments sensitive to interest rates, a hypothetical 10 percent 
+movement in interest rates would not materially affect our 
+results of operations. In measuring interest rate risk by the 
+amount of net change in the fair value of our financial liabilities, 
+a hypothetical 1 percent decrease in interest rates at April 30, 
+2015, would increase the fair value of our long-term debt 
+by $396.4.
+Foreign Currency Exchange Risk: We have operations outside 
+the U.S. with foreign currency denominated assets and liabilities, primarily denominated in Canadian currency. Because we 
+have foreign currency denominated assets and liabilities, 
+financial exposure may result, primarily from the timing of 
+transactions and the movement of exchange rates. The foreign 
+currency balance sheet exposures as of April 30, 2015, are not 
+expected to result in a significant impact on future earnings or 
+cash flows.
+We utilize foreign currency exchange forwards and options 
+contracts to manage the price volatility of foreign currency 
+exchange fluctuations on future cash payments in Canada, 
+primarily related to purchases of certain raw materials and 
+finished goods. The contracts generally have maturities of less 
+than one year. The change in value of these instruments is 
+immediately recognized in cost of products sold. Based on 
+our hedged foreign currency positions as of April 30, 2015, a 
+hypothetical 10 percent change in exchange rates would result 
+in a $12.7 loss of fair value.
+Beginning in 2015, we elected to no longer qualify instruments 
+used to manage foreign currency exchange exposures for 
+hedge accounting treatment. Therefore, the gains and losses on 
+all foreign currency forwards and options contracts were 
+immediately recognized in cost of products sold.
+Revenues from customers outside the U.S., subject to foreign 
+currency exchange, represented 8 percent of net sales during 
+2015. Thus, certain revenues and expenses have been, and 
+are expected to be, subject to the effect of foreign currency 
+fluctuations, and these fluctuations may have an impact on 
+operating results.
+Commodity Price Risk: We use certain raw materials and 
+other commodities that are subject to price volatility caused 
+by supply and demand conditions, political and economic 
+variables, weather, investor speculation, and other unpredictable factors. To manage the volatility related to anticipated 
+commodity purchases, we use futures and options with 
+maturities of generally less than one year.
+Beginning in 2015, we elected to no longer qualify commodity 
+derivatives for hedge accounting treatment. As a result, the gains 
+and losses on all commodity derivatives were immediately 
+recognized in cost of products sold.
+The following sensitivity analysis presents our potential loss 
+of fair value resulting from a hypothetical 10 percent change 
+in market prices related to raw material commodities.
+The estimated fair value was determined using quoted 
+market prices and was based on our net derivative position by 
+commodity at each quarter end during the fiscal year. The 
+calculations are not intended to represent actual losses in fair 
+value that we expect to incur. In practice, as markets move, 
+we actively manage our risk and adjust hedging strategies as 
+appropriate. The commodities hedged have a high inverse 
+correlation to price changes of the derivative commodity 
+instrument; thus, we would expect that any gain or loss in the 
+estimated fair value of its derivatives would generally be offset 
+by an increase or decrease in the estimated fair value of the 
+underlying exposures

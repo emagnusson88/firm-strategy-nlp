@@ -1,0 +1,115 @@
+The following discussions about our market risk disclosures 
+involve forward-looking statements. Actual results could differ 
+from those projected in the forward-looking statements. We are 
+exposed to market risk related to changes in interest rates, foreign 
+currency exchange rates, and commodity prices.
+Interest Rate Risk: The fair value of our cash and cash 
+equivalents at April 30, 2018, approximates carrying value. We are 
+exposed to interest rate risk with regard to existing debt consisting 
+of fixed- and variable-rate maturities. Our interest rate exposure 
+primarily includes U.S. Treasury rates, LIBOR, and commercial 
+paper rates in the U.S.
+We utilize derivative instruments to manage changes in the fair 
+value and cash flows of our debt. Interest rate contracts mitigate 
+the risk associated with the underlying hedged item. At the 
+inception of the contract, the instrument is evaluated and 
+documented for hedge accounting treatment. If the contract is 
+designated as a cash flow hedge, the mark-to-market gains or 
+losses on the contract are deferred and included as a component of 
+accumulated other comprehensive income (loss), and reclassified 
+to interest expense in the period during which the hedged 
+transaction affects earnings. If the contract is designated as a fair 
+value hedge, the contract is recognized at fair value on the balance 
+sheet, and changes in the fair value are recognized in interest 
+expense. Generally, changes in the fair value of the derivative are 
+equal to changes in the fair value of the underlying debt and have 
+no net impact on earnings. 
+In June 2017, we entered into a treasury lock, with a notional value 
+of $300.0, to manage our exposure to interest rate volatility 
+associated with anticipated debt financing in 2018. This interest 
+rate contract was designated as a cash flow hedge. In December 
+2017, concurrent with the pricing of the Senior Notes due 
+December 15, 2027, we terminated the treasury lock prior to 
+maturity. The termination resulted in a gain of $2.7, which was 
+deferred and included as a component of accumulated other 
+comprehensive income (loss) and is being amortized as a reduction 
+to interest expense over the life of the debt. 
+In 2015, we terminated the interest rate swap on the 3.50 percent 
+Senior Notes due October 15, 2021, which was designated as a fair 
+value hedge, and used to hedge against the changes in fair value of 
+the debt. As a result of the early termination, we received $58.1 in 
+cash, which included $4.6 of accrued and prepaid interest and a 
+$53.5 benefit that is deferred as a component of the carrying value 
+of the long-term debt and is being recognized ratably as a 
+reduction to interest expense over the remaining life of the related 
+debt. At April 30, 2018, the remaining benefit of $28.5 was 
+recorded as an increase in the long-term debt balance 
+The following discussions about our market risk disclosures 
+involve forward-looking statements. Actual results could differ 
+from those projected in the forward-looking statements. We are 
+exposed to market risk related to changes in interest rates, foreign 
+currency exchange rates, and commodity prices.
+Interest Rate Risk: The fair value of our cash and cash 
+equivalents at April 30, 2018, approximates carrying value. We are 
+exposed to interest rate risk with regard to existing debt consisting 
+of fixed- and variable-rate maturities. Our interest rate exposure 
+primarily includes U.S. Treasury rates, LIBOR, and commercial 
+paper rates in the U.S.
+We utilize derivative instruments to manage changes in the fair 
+value and cash flows of our debt. Interest rate contracts mitigate 
+the risk associated with the underlying hedged item. At the 
+inception of the contract, the instrument is evaluated and 
+documented for hedge accounting treatment. If the contract is 
+designated as a cash flow hedge, the mark-to-market gains or 
+losses on the contract are deferred and included as a component of 
+accumulated other comprehensive income (loss), and reclassified 
+to interest expense in the period during which the hedged 
+transaction affects earnings. If the contract is designated as a fair 
+value hedge, the contract is recognized at fair value on the balance 
+sheet, and changes in the fair value are recognized in interest 
+expense. Generally, changes in the fair value of the derivative are 
+equal to changes in the fair value of the underlying debt and have 
+no net impact on earnings. 
+In June 2017, we entered into a treasury lock, with a notional value 
+of $300.0, to manage our exposure to interest rate volatility 
+associated with anticipated debt financing in 2018. This interest 
+rate contract was designated as a cash flow hedge. In December 
+2017, concurrent with the pricing of the Senior Notes due 
+December 15, 2027, we terminated the treasury lock prior to 
+maturity. The termination resulted in a gain of $2.7, which was 
+deferred and included as a component of accumulated other 
+comprehensive income (loss) and is being amortized as a reduction 
+to interest expense over the life of the debt. 
+In 2015, we terminated the interest rate swap on the 3.50 percent 
+Senior Notes due October 15, 2021, which was designated as a fair 
+value hedge, and used to hedge against the changes in fair value of 
+the debt. As a result of the early termination, we received $58.1 in 
+cash, which included $4.6 of accrued and prepaid interest and a 
+$53.5 benefit that is deferred as a component of the carrying value 
+of the long-term debt and is being recognized ratably as a 
+reduction to interest expense over the remaining life of the related 
+debt. At April 30, 2018, the remaining benefit of $28.5 was 
+recorded as an increase in the long-term debt balance Commodity Price Risk: We use certain raw materials and other 
+commodities that are subject to price volatility caused by supply 
+and demand conditions, political and economic variables, weather, 
+investor speculation, and other unpredictable factors. To manage 
+the volatility related to anticipated commodity purchases, we use 
+derivatives with maturities of generally less than one year. We do 
+not qualify commodity derivatives for hedge accounting treatment. 
+As a result, the gains and losses on all commodity derivatives are 
+immediately recognized in cost of products sold. 
+The following sensitivity analysis presents our potential loss of fair 
+value resulting from a hypothetical 10 percent change in market 
+prices related to commodities. Commodity Price Risk: We use certain raw materials and other 
+commodities that are subject to price volatility caused by supply 
+and demand conditions, political and economic variables, weather, 
+investor speculation, and other unpredictable factors. To manage 
+the volatility related to anticipated commodity purchases, we use 
+derivatives with maturities of generally less than one year. We do 
+not qualify commodity derivatives for hedge accounting treatment. 
+As a result, the gains and losses on all commodity derivatives are 
+immediately recognized in cost of products sold. 
+The following sensitivity analysis presents our potential loss of fair 
+value resulting from a hypothetical 10 percent change in market 
+prices related to commodities.
+

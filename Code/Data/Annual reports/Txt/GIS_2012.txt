@@ -1,0 +1,96 @@
+We are exposed to market risk stemming from changes in 
+interest rates, foreign exchange rates, commodity prices, 
+and equity prices. Changes in these factors could cause 
+fluctuations in our earnings and cash flows. In the normal course of business, we actively manage our exposure 
+to these market risks by entering into various hedging 
+transactions, authorized under established policies that 
+place clear controls on these activities. The counterparties in these transactions are generally highly rated institutions. We establish credit limits for each counterparty. 
+Our hedging transactions include but are not limited to a 
+variety of derivative financial instruments.
+INTEREST RATE RISK
+We are exposed to interest rate volatility with regard 
+to future issuances of fixed-rate debt, and existing and 
+future issuances of floating-rate debt. Primary exposures 
+include U.S. Treasury rates, LIBOR, Euribor, and commercial paper rates in the United States and Europe. We use 
+interest rate swaps and forward-starting interest rate 
+swaps to hedge our exposure to interest rate changes, 
+to reduce the volatility of our financing costs, and to 
+achieve a desired proportion of fixed versus floating-rate 
+debt, based on current and projected market conditions. 
+Generally under these swaps, we agree with a counterparty to exchange the difference between fixed-rate and 
+floating-rate interest amounts based on an agreed upon 
+notional principal amount.
+As of May 27, 2012, we had interest rate swaps with 
+$835 million of aggregate notional principal amount outstanding, all of which converts fixed-rate notes to floating-rate notes.
+FOREIGN EXCHANGE RISK
+Foreign currency fluctuations affect our net investments 
+in foreign subsidiaries and foreign currency cash flows 
+related to third party purchases, intercompany loans, 
+product shipments, and foreign-denominated commercial 
+paper. We are also exposed to the translation of foreign 
+currency earnings to the U.S. dollar. Our principal exposures are to the Australian dollar, Brazilian real, British 
+pound sterling, Canadian dollar, Chinese renminbi, euro, 
+Japanese yen, Swiss franc, and Mexican peso. We mainly 
+use foreign currency forward contracts to selectively
+hedge our foreign currency cash flow exposures. We 
+also generally swap our foreign-denominated commercial 
+paper borrowings and nonfunctional currency intercompany loans back to U.S. dollars or the functional currency; the gains or losses on these derivatives offset the 
+foreign currency revaluation gains or losses recorded in 
+earnings on the associated borrowings. We generally do 
+not hedge more than 18 months forward.
+We also have many net investments in foreign subsidiaries that are denominated in euros. We previously 
+hedged a portion of these net investments by issuing euro-denominated commercial paper and foreign 
+exchange forward contracts. As of May 27, 2012, we had 
+deferred net foreign currency transaction losses of $96 
+million in AOCI associated with hedging activity.
+COMMODITY PRICE RISK
+Many commodities we use in the production and distribution of our products are exposed to market price 
+risks. We utilize derivatives to manage price risk for our 
+principal ingredients and energy costs, including grains 
+(oats, wheat, and corn), oils (principally soybean), non-fat 
+dry milk, natural gas, and diesel fuel. Our primary objective when entering into these derivative contracts is to 
+achieve certainty with regard to the future price of commodities purchased for use in our supply chain. We manage our exposures through a combination of purchase 
+orders, long-term contracts with suppliers, exchangetraded futures and options, and over-the-counter options 
+and swaps. We offset our exposures based on current 
+and projected market conditions and generally seek to 
+acquire the inputs at as close to our planned cost as 
+possible.
+As of May 27, 2012, the net notional value of commodity derivatives was $307 million, of which $127 million 
+related to agricultural inputs and $180 million related to 
+energy inputs. These contracts relate to inputs that generally will be utilized within the next 12 months.
+EQUITY INSTRUMENTS
+Equity price movements affect our compensation expense 
+as certain investments made by our employees in our 
+deferred compensation plan are revalued. We use equity 
+swaps to manage this risk. As of May 27, 2012, the net 
+notional amount of our equity swaps was $48 million
+VALUE AT RISK
+The estimates in the table below are intended to measure the maximum potential fair value we could lose in 
+one day from adverse changes in market interest rates, 
+foreign exchange rates, commodity prices, and equity 
+prices under normal market conditions. A Monte Carlo 
+value-at-risk (VAR) methodology was used to quantify 
+the market risk for our exposures. The models assumed 
+normal market conditions and used a 95 percent confidence level.
+The VAR calculation used historical interest rates, foreign exchange rates, and commodity and equity prices 
+from the past year to estimate the potential volatility 
+and correlation of these rates in the future. The market 
+data were drawn from the RiskMetrics™ data set. The 
+calculations are not intended to represent actual losses 
+in fair value that we expect to incur. Further, since the 
+hedging instrument (the derivative) inversely correlates 
+with the underlying exposure, we would expect that any 
+loss or gain in the fair value of our derivatives would be 
+generally offset by an increase or decrease in the fair 
+value of the underlying exposure. The positions included 
+in the calculations were: debt; investments; interest rate 
+swaps; foreign exchange forwards; commodity swaps, 
+futures and options; and equity instruments. The calculations do not include the underlying foreign exchange 
+and commodities or equity-related positions that are offset by these market-risk-sensitive instruments. 
+The table below presents the estimated maximum 
+potential VAR arising from a one-day loss in fair value 
+for our interest rate, foreign currency, commodity, and 
+equity market-risk-sensitive instruments outstanding as 
+of May 27, 2012, and May 29, 2011, and the average fair 
+value impact during the year ended May 27, 2012
+

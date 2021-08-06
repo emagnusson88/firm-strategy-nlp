@@ -1,0 +1,158 @@
+Risk Management Activities
+As a part of our ongoing operations, we are exposed to 
+market risks such as changes in interest and foreign 
+currency exchange rates and commodity and equity 
+prices. To manage these risks, we may enter into various derivative transactions (e.g., futures, options, and 
+swaps) pursuant to our established policies.
+Commodity Price Risk
+Many commodities we use in the production and distribution of our products are exposed to market price 
+risks. We utilize derivatives to manage price risk for 
+our principal ingredients and energy costs, including 
+grains (oats, wheat, and corn), oils (principally soybean), 
+dairy products, natural gas, and diesel fuel. Our primary 
+objective when entering into these derivative contracts 
+is to achieve certainty with regard to the future price 
+of commodities purchased for use in our supply chain. 
+We manage our exposures through a combination of 
+purchase orders, long-term contracts with suppliers, 
+exchange-traded futures and options, and over-thecounter options and swaps. We off set our exposures 
+based on current and projected market conditions and 
+generally seek to acquire the inputs at as close to our 
+planned cost as possible.
+We use derivatives to manage our exposure to 
+changes in commodity prices. We do not perform 
+the assessments required to achieve hedge accounting for commodity derivative positions. Accordingly, 
+the changes in the values of these derivatives are 
+recorded currently in cost of sales in our Consolidated 
+Statements of Earnings. 
+Although we do not meet the criteria for cash fl ow 
+hedge accounting, we nonetheless believe that these 
+instruments are eff ective in achieving our objective of 
+providing certainty in the future price of commodities 
+purchased for use in our supply chain. Accordingly, for 
+purposes of measuring segment operating performance 
+these gains and losses are reported in unallocated corporate items outside of segment operating results until 
+such time that the exposure we are managing aff ects 
+earnings. At that time we reclassify the gain or loss 
+from unallocated corporate items to segment operating 
+profi t, allowing our operating segments to realize the 
+economic eff ects of the derivative without experiencing 
+any resulting mark-to-market volatility, which remains 
+in unallocated corporate items. 
+Unallocated corporate items for fi scal 2015, 2014 and 
+2013 included:
+As of May 31, 2015, the net notional value of commodity derivatives was $384.0 million, of which $214.7 
+million related to agricultural inputs and $169.3 million 
+related to energy inputs. Th ese contracts relate to inputs 
+that generally will be utilized within the next 12 months. 
+Interest Rate Risk
+We are exposed to interest rate volatility with regard 
+to future issuances of fi xed-rate debt, and existing 
+and future issuances of fl oating-rate debt. Primary 
+exposures include U.S. Treasury rates, LIBOR, Euribor, 
+and commercial paper rates in the United States and 
+Europe. We use interest rate swaps, forward-starting 
+interest rate swaps, and treasury locks to hedge our 
+exposure to interest rate changes, to reduce the volatility of our fi nancing costs, and to achieve a desired 
+proportion of fi xed versus fl oating-rate debt, based on 
+current and projected market conditions. Generally 
+under these swaps, we agree with a counterparty to 
+exchange the diff erence between fi xed-rate and fl oating-rate interest amounts based on an agreed upon 
+notional principal amount.
+Floating Interest Rate Exposures — Floating-tofi xed interest rate swaps are accounted for as cash 
+fl ow hedges, as are all hedges of forecasted issuances 
+of debt. Eff ectiveness is assessed based on either the 
+perfectly eff ective hypothetical derivative method or 
+changes in the present value of interest payments on 
+the underlying debt. Eff ective gains and losses deferred 
+to AOCI are reclassifi ed into earnings over the life of 
+the associated debt. Ineff ective gains and losses are 
+recorded as net interest. Th e amount of hedge ineff ectiveness was less than $1 million in each of fi scal 2015, 
+2014, and 2013.
+Fixed Interest Rate Exposures — Fixed-to-fl oating 
+interest rate swaps are accounted for as fair value 
+hedges with eff ectiveness assessed based on changes 
+in the fair value of the underlying debt and derivatives, 
+using incremental borrowing rates currently available 
+on loans with similar terms and maturities. Ineff ective 
+gains and losses on these derivatives and the underlying hedged items are recorded as net interest. Th e 
+amount of hedge ineff ectiveness was a $1.6 million gain 
+in fi scal 2015 and less than $1 million in fi scal 2014 
+and 2013.
+In advance of planned debt fi nancing, we entered 
+into €600.0 million of forward starting swaps with an 
+average fi xed rate of 0.5 percent. All of these forward 
+starting swaps were cash settled for $6.5 million during
+the fourth quarter of fi scal 2015, coincident with the 
+issuance of our €500 million 8-year fi xed-rate notes 
+and €400 million 12-year fi xed-rate notes.
+During the second quarter of fi scal 2015, we entered 
+into swaps to convert $500.0 million of 1.4 percent 
+fi xed-rate notes due October 20, 2017, and $500.0 million of 2.2 percent fi xed-rate notes due October 21, 
+2019, to fl oating rates.
+In advance of planned debt fi nancing, we entered 
+into $250.0 million of treasury locks with an average 
+fi xed rate of 1.99 percent. All of these treasury locks 
+were cash settled for $17.9 million during the third 
+quarter of fi scal 2014, coincident with the issuance of 
+our $500.0 million 10-year fi xed-rate notes. 
+During the third quarter of fi scal 2013, we entered 
+into swaps to convert $250.0 million of 0.875 percent 
+fi xed-rate notes due January 29, 2016, to fl oating rates. 
+As of May 31, 2015, the pre-tax amount of cash-settled interest rate hedge gain or loss remaining in AOCI 
+which will be reclassifi ed to earnings over the remaining term of the related underlying debt follows:
+Th e following table summarizes the notional amounts 
+and weighted-average interest rates of our interest rate 
+derivatives. Average fl oating rates are based on rates as 
+of the end of the reporting period. Foreign Exchange Risk
+Foreign currency fl uctuations aff ect our net investments in foreign subsidiaries and foreign currency cash 
+fl ows related to third party purchases, intercompany 
+loans, product shipments, and foreign-denominated 
+debt. We are also exposed to the translation of foreign 
+currency earnings to the U.S. dollar. Our principal exposures are to the Australian dollar, Brazilian real, British 
+pound sterling, Canadian dollar, Chinese renminbi, 
+euro, Japanese yen, Mexican peso, and Swiss franc. 
+We mainly use foreign currency forward contracts to 
+selectively hedge our foreign currency cash fl ow exposures. We also generally swap our foreign-denominated 
+commercial paper borrowings and nonfunctional currency intercompany loans back to U.S. dollars or the 
+functional currency of the entity with foreign exchange 
+exposure; the gains or losses on these derivatives off -
+set the foreign currency revaluation gains or losses 
+recorded in earnings on the associated borrowings. We 
+generally do not hedge more than 18 months forward.
+As of May 31, 2015, the net notional value of foreign 
+exchange derivatives was $1,448.5 million. Th e amount 
+of hedge ineff ectiveness was less than $1 million in 
+each of fi scal 2015, 2014, and 2013.
+We also have many net investments in foreign subsidiaries that are denominated in euros. We previously 
+hedged a portion of these net investments by issuing euro-denominated commercial paper and foreign 
+exchange forward contracts. During the fourth quarter 
+of fi scal 2015, we entered into a net investment hedge 
+for a portion of our net investment in foreign operations denominated in euros by issuing €900.0 million 
+of euro-denominated bonds. During the second quarter 
+of fi scal 2014, we entered into a net investment hedge 
+for a portion of our net investment in foreign operations denominated in euros by issuing €500.0 million 
+of euro-denominated bonds. As of May 31, 2015, we 
+had deferred net foreign currency transaction gains of 
+$10.7 million in AOCI associated with hedging activity.
+Venezuela is a highly infl ationary economy and we 
+remeasure the value of the assets and liabilities of our 
+Venezuelan subsidiary based on the exchange rate at 
+which we expect to remit dividends in U.S. dollars. In 
+February 2014, the Venezuelan government established 
+a new foreign exchange market mechanism (SICAD 2) 
+and at that time indicated that it would be the market through which U.S. dollars would be obtained for 
+the remittance of dividends. On February 12, 2015, the 
+Venezuelan government replaced SICAD 2 with a new 
+foreign exchange market mechanism (SIMADI). We 
+expect to be able to access U.S. dollars through the 
+SIMADI market. SIMADI has signifi cantly higher foreign exchange rates than those available through the 
+other foreign exchange mechanisms. In fi scal 2015, 
+we recorded an $8.0 million foreign exchange loss in 
+unallocated corporate items resulting from the remeasurement of assets and liabilities of our Venezuelan 
+subsidiary at the SIMADI rate of 199 bolivars per U.S. 
+dollar. Our Venezuela operations represent less than 1 
+percent of our consolidated assets, liabilities, net sales, 
+and segment operating profi t. As of May 31, 2015, we 
+had $0.3 million of non-U.S. dollar cash balances in 
+Venezuela
