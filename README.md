@@ -20,7 +20,7 @@ firm-strategy-nlp
 │   │   PCA + Models_FINAL.ipynb -comparing binary classifiers
 │
 └───Report
-│   │   LaTeX report with .png files
+│   │   LaTeX reporting file with .png files
 │
 └───Firm_Strategy_NLP_Report
     │   Final project report
