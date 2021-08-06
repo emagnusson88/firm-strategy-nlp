@@ -1,38 +1,28 @@
-# Firm Strategy and Financial Performance with Natural Language
-Processing
+# Firm Strategy and Financial Performance with Natural LanguageProcessing
 
-Using a bag of words model from annual report text to predict whether or not CPG companies would outperform the S&P 500
+Using a bag of words model from annual report text to predict whether or not consumer packaged goods (CPG) companies will outperform the S&P 500
 
-Deployment: https://ufc-prediction.herokuapp.com/
-
-<p align="center">
-  <img width="460" height="300" src="https://www.logo-designer.co/wp-content/uploads/2015/07/UFC-logo-design-2015-brand-identity.png">
-</p>
 
 ## Project Structure
 ```
-ufc-prediction
-│   readme.md
-│   scrape_data.py  -Scrapes event, fight, and fighter data from http://ufcstats.com/statistics/events/completed
-│   Initial Load, Cleaning, and Feature Engineering.ipynb  -shows cleaning and transformation process
-│   Modeling and Generalizing for New Bouts.ipynb  -shows model iteration and final output
+firm-strategy-nlp 
+│   README.md
+│   Code
+│   Report
+│   Firm_Strategy_NLP_Report.pdf
 │
-└───scraper
-│   │   make_soup.py
-│   │   print_progress.py 
-│   │   scrape_fight_links.py
-│   │   scrape_fight_data.py
-│   │   scrape_fighter_details.py
-│   │   scrape_data.bat -scheduled scraping task to run every Monday at midnight
-│   │   Run: scrape_data.py
+└───Code
+│   │   stock_data_import.ipynb -collecting historical stock prices with API
+│   │   read_text.ipynb -generating bag of words
+│   │   exploratory_data_analysis.ipynb -exploring distribution of terms across annual reports
+│   │   pca.ipynb -performing principal component analysis on bag of words model
+│   │   clustering.ipynb -kmeans clustering for grouping companies by terminology
+│   │   PCA + Models_FINAL.ipynb -comparing binary classifiers
 │
-└───data
-│   │   total_fight_data.csv -historical UFC fight data (e.g. fight participants, weight class, significant strikes)
-│   │   fighter_details.csv -fighter-specific information (e.g. Height, Weight, DOB)
-│   │   upcoming_fight_data.csv -future UFC fight data (e.g. fight participants, weight class, location, date)
+└───Report
+│   │   LaTeX report with .png files
 │
-└───cleaning
-│   │   Initial Load, Cleaning, and Feature Engineering.ipynb
-│   │   Run: clean_data.py
-│  
-└───modeling
+└───Firm_Strategy_NLP_Report
+    │   Final project report
+  
+
