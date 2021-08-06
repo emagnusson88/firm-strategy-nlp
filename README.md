@@ -1,5 +1,7 @@
-# UFC Prediction
-Using past MMA fight and fighter data to predict the outcome of future bouts
+# Firm Strategy and Financial Performance with Natural Language
+Processing
+
+Using a bag of words model from annual report text to predict whether or not CPG companies would outperform the S&P 500
 
 Deployment: https://ufc-prediction.herokuapp.com/
 
