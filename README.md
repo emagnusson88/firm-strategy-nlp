@@ -1,4 +1,4 @@
-# Firm Strategy and Financial Performance with Natural LanguageProcessing
+# Firm Strategy and Financial Performance with Natural Language Processing
 
 Using a bag of words model from annual report text to predict whether or not consumer packaged goods (CPG) companies will outperform the S&P 500
 
