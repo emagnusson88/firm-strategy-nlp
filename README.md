@@ -12,7 +12,7 @@ firm-strategy-nlp
 │   Firm_Strategy_NLP_Report.pdf
 │
 └───Code
-│   │   stock_data_import.ipynb -collecting historical stock prices with API
+│   │   stock_data_import.ipynb -collecting historical stock prices with Alpha Vantage API
 │   │   read_text.ipynb -generating bag of words
 │   │   exploratory_data_analysis.ipynb -exploring distribution of terms across annual reports
 │   │   pca.ipynb -performing principal component analysis on bag of words model
